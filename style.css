@@ -390,7 +390,7 @@ nav ul li a{
 }
 
 .about-content-box h2 {
-    font-size: 103.21px;
+    font-size: 60px;
     font-weight: 700;
     font-family: "Karma";
     line-height: 100%;
@@ -408,7 +408,7 @@ nav ul li a{
 .about-content-box h6 {
     position: absolute;
     color: rgba(255, 255, 255, 0.801);
-    top: 40px;
+    top: 15px;
     left: 190px;
     font-size: 18.09px;
     font-weight: 700;
@@ -476,7 +476,7 @@ nav ul li a{
 /* skil-container */
 
 .skil-container {
-    scroll-margin-top: 190px;
+    scroll-margin-top: 200px;
     width: 70%;
     margin: auto;
     margin-top: 100px;
@@ -1713,6 +1713,7 @@ nav ul li a{
   background: #000;
   color: #fff;
   text-align: center;
+  scroll-margin-top: 20px !important;
 }
 
 .section-title {
