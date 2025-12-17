@@ -988,7 +988,7 @@ section, header{
 }
 
 .about-container h2{
-  font-size: 32px;
+  font-size: 32px !important;
 }
 
 .run-letter{
@@ -1010,7 +1010,7 @@ section, header{
 }
 
 .about-content-box h2{
-  font-size: 35px;
+  font-size: 30px !important;
   text-align: center;
 }
 
@@ -1292,7 +1292,7 @@ nav ul li a{
 }
 
 .about-content-box h2{
-  font-size: 60px;
+  font-size: 35px !important;
   text-align: center;
 }
 
@@ -1544,7 +1544,7 @@ nav ul li a{
 }
 
 .about-content-box h2{
-  font-size: 30px;
+  font-size: 30px !important;
   text-align: center;
 }
 
